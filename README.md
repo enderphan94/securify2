@@ -18,7 +18,7 @@ Features
 ===
 - Supports 38 vulnerabilities (see [table](#supported-vulnerabilities) below)
 - Implements novel context-sensitive static analysis written in Datalog
-- Analyzes contracts written in Solidity >= 0.5.8
+- Analyzes contracts written in Solidity <= 0.5.12
 
 
 Docker
